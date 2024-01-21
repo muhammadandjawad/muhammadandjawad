@@ -3,8 +3,31 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammad-jawad-176817282/)
 
-👋 Hey there! I'm a highly motivated MERN stack developer with a passion for crafting seamless user experiences. 💻 My GitHub profile is a showcase of my projects, where I leverage the power of React.js, Node.js, and MongoDB to build responsive and feature-rich applications. 🚀 From interactive frontends to robust backend APIs, I love exploring the full stack of web development.
+# Muhammad Jawad's Portfolio
 
-I thrive on challenges and enjoy collaborating with other developers to tackle complex problems. My code is clean, maintainable, and follows best practices, ensuring scalable and efficient solutions. 🌟
+## 🚀 Software Engineer | 🎨 UI/UX Specialist
 
-Whether it's building dynamic user interfaces, implementing RESTful APIs, or optimizing database queries, I'm always eager to expand my skills and contribute to innovative projects. Let's connect on GitHub and explore the endless possibilities of the MERN stack together! 😊
+Welcome to my GitHub repository! I'm Muhammad Jawad, a passionate Software Engineer with a keen eye for UI/UX design. I specialize in transforming concepts into elegant, functional, and user-friendly code. My goal is to craft seamless digital experiences that not only meet but exceed user expectations.
+
+### 💻 Skills
+
+- **Web Technologies:** HTML, CSS, JavaScript.
+- **UI/UX Design Tools:** FIGMA, ADOBE ILLUSTRATOR
+
+
+### 📫 Contact
+
+Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect:
+
+- **Email:** muhammadandjawad@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-jawad-176817282/
+
+### 📚 Education
+
+- [Software Engineering] - [CUSIT], [2024]
+
+### 🌟 Let's Connect
+
+I'm always open to new challenges and exciting projects. Let's connect and explore how we can create something amazing together!
+
+Thank you for visiting my GitHub repository! 🚀🎨
