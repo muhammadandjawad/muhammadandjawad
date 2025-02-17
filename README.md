@@ -5,14 +5,17 @@
 
 # Muhammad Jawad's Portfolio
 
-## 🚀 Software Engineer | 🎨 UI/UX Specialist
+## 🚀 Software Engineer | SQA Enthusiast | UI/UX Designer | Project Manager | Prompt Engineer
 
-Welcome to my GitHub repository! I'm Muhammad Jawad, a passionate Software Engineer with a keen eye for UI/UX design. I specialize in transforming concepts into elegant, functional, and user-friendly code. My goal is to craft seamless digital experiences that not only meet but exceed user expectations.
-
+Welcome to my GitHub repository! I'm Muhammad Jawad, a passionate Software Engineer
 ### 💻 Skills
 
-- **Web Technologies:** HTML, CSS, JavaScript.
-- **UI/UX Design Tools:** FIGMA, ADOBE ILLUSTRATOR
+Frontend: HTML, CSS, JavaScript, React
+UI/UX Design: Figma
+Version Control: Git, GitHub
+SQA Tools: Selenium, JUnit, TestNG, Postman
+Project Management: Jira
+Prompt Engineering: OpenAI API, GPT models
 
 
 ### 📫 Contact
