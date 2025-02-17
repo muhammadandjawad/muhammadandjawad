@@ -10,7 +10,7 @@
 Welcome to my GitHub repository! I'm Muhammad Jawad, a passionate Software Engineer
 ### 💻 Skills
 
--**Frontend**: HTML, CSS, JavaScript, React
+-**Frontend**: HTML, CSS, JavaScript, React-
 **UI/UX Design**: Figma
 **Version Control**: Git, GitHub
 **SQA Tools**: Selenium, JUnit, TestNG, Postman
